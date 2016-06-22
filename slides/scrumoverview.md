@@ -1,4 +1,4 @@
-<div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
+<div class="darkbackground">
 Scrum Overview
 
 <table style="font-size:xx-large">

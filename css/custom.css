@@ -1,0 +1,29 @@
+div.darkbackground {
+    background-color: rgba(0, 0, 0, 0.9); 
+    color: #fff; 
+    padding: 20px;
+} 
+
+.imagelist ul {
+  list-style-type: none;
+}
+ 
+.imagelist h4 {
+  margin: 0px;
+}
+
+.imagelist li img {
+  float: left;
+  margin: 0 15px 0 0;
+}
+ 
+.imagelist li p {
+  font-size: large;
+  margin: 0px;
+}
+ 
+.imagelist li {
+  list-style-type: none;
+  padding: 10px;
+  overflow: auto;
+}
