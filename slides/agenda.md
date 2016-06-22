@@ -6,5 +6,5 @@
 <li>Events</li>
 <li>Artifacts</li>
 </ul>
-<li>Why should you care about Scrum?</li>
+<li>Why should you (a Developer) care?</li>
 </ul>
