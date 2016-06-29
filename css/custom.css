@@ -4,25 +4,26 @@ div.darkbackground {
     padding: 20px;
 } 
 
-.imagelist ul {
+.vertical-image-list ul {
   list-style-type: none;
 }
  
-.imagelist h4 {
+.vertical-image-list h4 {
   margin: 0px;
 }
 
-.imagelist li img {
+.vertical-image-list li img {
   float: left;
   margin: 0 15px 0 0;
+  border-style: none;
 }
  
-.imagelist li p {
+.vertical-image-list li p {
   font-size: large;
   margin: 0px;
 }
  
-.imagelist li {
+.vertical-image-list li {
   list-style-type: none;
   padding: 10px;
   overflow: auto;
