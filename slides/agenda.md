@@ -6,5 +6,5 @@
 <li>Events</li>
 <li>Artifacts</li>
 </ul>
-<li>Why should you (a Developer) care?</li>
+<li>Why would a Developer care?</li>
 </ul>

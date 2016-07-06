@@ -1,2 +1,2 @@
 ### Presentation built with:
-<p class="fragment">Reveal.js in Visual Studio Code</p>
+<p><span class="fragment highlight-red">Reveal.js in Visual Studio Code</span></p>
