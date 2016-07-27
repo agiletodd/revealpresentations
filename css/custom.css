@@ -28,3 +28,11 @@ div.darkbackground {
   padding: 10px;
   overflow: auto;
 }
+
+img.icon-images
+{
+	border-style: none;
+  vertical-align: middle;
+  height: 42px;
+  width: 42px; 
+}

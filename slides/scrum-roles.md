@@ -9,13 +9,13 @@ Scrum Roles
         </li>
     
         <li>
-        <img <img src="images/scrum-master.png" height="100" width="100" /> 
+        <img src="images/scrum-master.png" height="100" width="100" /> 
         <h4>Scrum Master</h4>
         <p>Scrum Champion, Impediment Remover, Agile Leader</p>
         </li>
     
         <li>
-        <img <img src="images/development-team.png" height="100" width="120" />
+        <img src="images/development-team.png" height="100" width="120" />
         <h4>Development Team</h4>
         <p>6+-3, Responsible for 'How', Cross-functional, Self-organizing</p>
         </li>

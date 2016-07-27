@@ -1,9 +1,6 @@
 # Agenda
 <ul>
-    <li>An Overview of the Scrum Framework</li>
-    <li>The Development Team</li>
-    <li>Technical Excellence</li>
+    <li><p><span class="fragment highlight-red">The Scrum Framework</span></p></li>
+    <li><p><span>The Scrum Development Team</li>
+    <li><p><span>Pursuing Technical Excellence</span></p></li>
 </ul>
-
-[//]: # (The Development Team (cross-functional, self-organizing, Scrum values, etc.))
-[//]: # (Technical Excellence (delivering increments, "done", technical practices to achieve increments))
