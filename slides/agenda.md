@@ -1,10 +1,9 @@
-# Today's Agenda
+# Agenda
 <ul>
-<li>What's Scrum?</li>
-<ul>
-<li>Roles</li>
-<li>Events</li>
-<li>Artifacts</li>
+    <li>An Overview of the Scrum Framework</li>
+    <li>The Development Team</li>
+    <li>Technical Excellence</li>
 </ul>
-<li>Why would a Developer care?</li>
-</ul>
+
+[//]: # (The Development Team (cross-functional, self-organizing, Scrum values, etc.))
+[//]: # (Technical Excellence (delivering increments, "done", technical practices to achieve increments))
