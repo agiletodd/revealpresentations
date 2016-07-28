@@ -1,4 +1,4 @@
-### Presentation built with:
-<p><span class="fragment fade-up">Reveal.js in Visual Studio Code</span></p>
+### Presentation built with
+<span class="fragment fade-up">Reveal.js in Visual Studio Code</span>
 
 

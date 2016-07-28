@@ -1,6 +1,6 @@
 # Agenda
 <ul>
-    <li><p><span class="fragment highlight-red">The Scrum Framework</span></p></li>
-    <li><p><span>The Scrum Development Team</li>
-    <li><p><span>Pursuing Technical Excellence</span></p></li>
+    <li><span class="fragment highlight-red">The Scrum Framework</span></li>
+    <li><span>The Scrum Development Team</li>
+    <li><span>Pursuing Technical Excellence</span></li>
 </ul>
