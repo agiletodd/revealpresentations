@@ -34,5 +34,7 @@ img.icon-images
 	border-style: none;
   vertical-align: middle;
   height: 42px;
-  width: 42px; 
+  width: 42px;   
+  background: transparent !important;
 }
+
