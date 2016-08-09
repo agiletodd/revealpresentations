@@ -38,3 +38,14 @@ img.icon-images
   background: transparent !important;
 }
 
+.red-text {
+  color: #ff2c2d !important; 
+}
+
+.blue-text {
+  color: #1b91ff !important;  
+}
+
+.green-text {
+  color: #17ff2e !important; 
+}
