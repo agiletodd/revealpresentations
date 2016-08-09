@@ -11,7 +11,7 @@ Scrum Roles
         <li>
         <img src="images/scrum-master.png" height="100" width="100" /> 
         <h4>Scrum Master</h4>
-        <p>Scrum Champion, Impediment Remover, Agile Leader</p>
+        <p>Manages the Scrum Process, Impediment Remover, Organizational Agile Leader</p>
         </li>
     
         <li>
