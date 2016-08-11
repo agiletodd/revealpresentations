@@ -49,3 +49,13 @@ img.icon-images
 .green-text {
   color: #17ff2e !important; 
 }
+
+#image-container {
+    position:relative;
+}
+
+#img-overlay {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
