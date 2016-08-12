@@ -129,10 +129,8 @@
     					</aside>
 					</section>
 					<section>
-						<div id="image-container">
-							<img src="images/thumbs-up.jpg" class="fragment fade-up current-visible" />
-							<img src="images/broken-toy.jpg" class="fragment fade-up" id="img-overlay"/> 
-						</div>
+						<img id="img-overlay-top" src="images/thumbs-up.jpg" class="fragment fade-up current-visible" />
+						<img id="img-overlay-bottom" src="images/broken-toy.jpg" class="fragment fade-up" /> 
 					</section>
 					<section>
 						<h3 class="blue-text">Application Lifecycle Management</h3>
@@ -147,7 +145,7 @@
 								<li>Unit, System, Performance, UI, Business, etc.</li>
 							</ul>
 						</ul>
-					<aside class="notes">
+						<aside class="notes">
 							<p>There are others!</p>
 							<p>(CI) requires developers to integrate code into a shared repository several times a day</p>
 							<p>(CDelivery) discipline where you build software in such a way that the software can be released to production at any time.</p>
@@ -155,7 +153,11 @@
     					</aside>
 					</section>
 					<section>
-						<img src="images/image" /> Shorten Feedback Loops!
+						<img src="images/road-in-argentina.jpg" />
+						<aside class="notes">
+							<p>Shorten Feedback Loops</p>
+							<p>The further you go down the road you go the hard it is to turn around.</p>
+    					</aside>
 					</section>
 					<section>
 						<h3 class="green-text">Engineering Practices</h3>
@@ -175,7 +177,7 @@
 					</aside>
 					</section>
 					<section>
-						<img src="images/image" /> Be a Software Craftsman (NEED IMAGE)
+						<img src="images/craftsmanship.jpg" /> 
 					</section>
 					<section>
 						<p class="fragment fade-up highlight-red">"Done" Increments</p>
@@ -201,6 +203,7 @@
 			Reveal.initialize({
 				history: true,
 				progress: true,
+				slideNumber: true,
 				// More info https://github.com/hakimel/reveal.js#dependencies
 				dependencies: [
 					{ src: 'plugin/markdown/marked.js' },

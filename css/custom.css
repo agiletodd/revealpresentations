@@ -50,12 +50,12 @@ img.icon-images
   color: #17ff2e !important; 
 }
 
-#image-container {
-    position:relative;
+#img-overlay-top {
+  position: absolute;
+  z-index:0;
 }
 
-#img-overlay {
-    position: absolute;
-    left: 50px;
-    top: 50px;
+#img-overlay-bottom {
+  position: relative;
+  z-index:1;
 }
