@@ -1,2 +1,2 @@
 ### SCRUM VALUES
-![alt text](images/scrum-values.png "Scrum Values")
+![alt text](images/ScrumValues-1000.png "Scrum Values") 

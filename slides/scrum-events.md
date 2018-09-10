@@ -16,12 +16,12 @@ Scrum Events
             <td><= 30 days</td>
             <td>-</td>
 	        <td>Container Event</td>
-        </tr>
+        </tr> 
         <tr>
             <td>Sprint Planning</td>
             <td><= 8 hrs</td>
             <td>Scrum Team</td>
-            <td>Sprint Backlog, Sprint Goal</td>
+            <td>Sprint Backlog, Sprint Goal, Forecast</td>
         </tr>
 	    <tr>
             <td>Daily Scrum</td>
@@ -39,7 +39,7 @@ Scrum Events
             <td>Sprint Retrospective</td>
             <td><= 3 hrs</td>
             <td>Scrum Team</td>
-            <td>Inspect & Adapt Sprint, Kaizen</td>
+            <td>Continuous Improvement</td>
         </tr>
     </tbody>
 </table>
