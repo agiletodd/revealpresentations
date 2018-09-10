@@ -19,3 +19,6 @@ deliver high-quality Increments of software.
 + From the GitHub website repo settings: Set the ‘gh-pages’ branch as default 
 + Delete the ‘master’ branch
 
+# Reveal Keyboard Shortcuts
++ https://github.com/hakimel/reveal.js/wiki/Keyboard-Shortcuts
+
